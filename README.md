@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rashmi3112&label=Profile%20views&color=0e75b6&style=flat" alt="rashmi3112" />
 </p>
 
-- 🔭 I’m currently working on a E-commerce web application
+- 🔭 I’m currently working on a Astrology web application
 
 - 🌱 I’m currently learning **LINQ and advanced .NET concepts**
 
